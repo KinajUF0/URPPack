@@ -1,0 +1,28 @@
+{
+  "schema": 1,
+  "packName": "URPPack",
+  "packVersion": "1",
+  "files": [
+    {
+      "id": "mods",
+      "url": "https://github.com/KinajUF0/URPPack/releases/download/v1/mods.zip",
+      "path": "mods",
+      "sha256": "f272c815a3cf1504a07aa04190a5fb39c2c299a77d3b844b9b59e0d4286365c6",
+      "extract": true
+    },
+    {
+      "id": "config",
+      "url": "https://github.com/KinajUF0/URPPack/releases/download/v1/config.zip",
+      "path": "config",
+      "sha256": "719cad7eca282c3760b45900abb30b055f9b2b918ef2133cdfbef077bd8f27db",
+      "extract": true
+    },
+    {
+      "id": "resourcepacks",
+      "url": "https://github.com/KinajUF0/URPPack/releases/download/v1/resourcepacks.zip",
+      "path": "resourcepacks",
+      "sha256": "6d13e099713c71d80e07823f92a58356682d6bf5da06efef35c1c5cdc88b36c8",
+      "extract": true
+    }
+  ]
+}
