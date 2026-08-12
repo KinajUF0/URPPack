@@ -7,21 +7,21 @@
       "id": "mods",
       "url": "https://github.com/KinajUF0/URPPack/releases/download/v2/mods.zip",
       "path": "mods",
-      "sha256": "4675E24A3129E097AB8B69A9378C5A9C95C9FC8F6F1DBA06AE2B8F55F2F34613",
+      "sha256": "9e857e972fbac72a26ab1efd892fdd8d728ae6335f3ddd01d0c892bafbbd8829",
       "extract": true
     },
     {
       "id": "config",
       "url": "https://github.com/KinajUF0/URPPack/releases/download/v2/config.zip",
       "path": "config",
-      "sha256": "99df10af37fdd8a4cacc15fcb86fded4fce36af69a5644123519a7a95852d7d0",
+      "sha256": "0a239b622261ede8009a547645faf48ef70f6125e41d19cdf00e71f51afec64d",
       "extract": true
     },
     {
       "id": "resourcepacks",
       "url": "https://github.com/KinajUF0/URPPack/releases/download/v2/resourcepacks.zip",
       "path": "resourcepacks",
-      "sha256": "4b9d4609da9a3709a05a3fd1b6dde2211eedfabecfbdb842b34b7b4fbcd7dd62",
+      "sha256": "961cadd2aadd5b056c46f6bee45354845e24d76b54394fac2d10d9824be5b403",
       "extract": true
     },
     {
